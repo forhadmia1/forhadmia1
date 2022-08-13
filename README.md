@@ -1,4 +1,4 @@
-![I am a passionate front-end web developer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a passionate front-end web developer.](image/banner.png)
 
 ![Profile views](https://gpvc.arturio.dev/forhadmia1)
 ### Hi there 👋, I am Md Forhad Mia

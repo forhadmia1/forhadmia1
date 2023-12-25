@@ -1,6 +1,6 @@
 ![I am a passionate front-end web developer.](image/banner.png)
 
-![Profile views](https://gpvc.arturio.dev/forhadmia1)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=forhadmia1&label=Profile%20views&color=0e75b6&style=flat" alt="forhadmia1" /> </p>
 ### Hi there 👋, I am Md Forhad Mia
 #### I am a passionate front-end web developer.
 

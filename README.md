@@ -7,6 +7,8 @@
 ### I am a front-end web developer who is passionate about making error-free websites. I am a fast learner and share my knowledge with others. During my free time, I learn new technologies and keep up to date myself. I love watching movies and coding.
 
 <img align="right" alt="Coding" width="350"  src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+ 
+<br/>
 
 - 🔭 I’m currently working on food hub project.
 - 🌱 I’m currently learning Redux.
